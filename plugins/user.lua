@@ -9,4 +9,5 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  { 'AlphaTechnolog/pywal.nvim', as = 'pywal', lazy = false }
 }
